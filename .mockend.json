@@ -10,5 +10,10 @@
     "post": {
       "belongsTo": "Post"
     }
+  },
+  "Person": {
+    "name": { "string": {} },
+    "age": { "int": {} },
+    "city": { "int": {} }
   }
 }
